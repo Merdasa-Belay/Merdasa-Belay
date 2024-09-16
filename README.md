@@ -10,4 +10,5 @@ I'm a Full-Stack Web Developer passionate about building scalable web applicatio
 💬 Ask me about building web apps using Laravel and React, data management, and front-end design.
 
 📫 How to reach me: merdasabelay@gmail.com or find me on LinkedIn [https://www.linkedin.com/in/merdasa-belay-795a03128/].
+
 ⚡ Fun fact: When I'm not coding, you'll probably find me working out or reading one book every week!
